@@ -1,0 +1,4 @@
+[
+  "google_search_pytest.py::test_01_search",
+  "google_search_pytest.py::test_02_search"
+]
