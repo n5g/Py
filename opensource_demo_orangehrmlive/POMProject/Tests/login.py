@@ -12,7 +12,6 @@ class LoinTest(unittest.TestCase):
         Self.driver.implicitly_wait(5)
         Self.driver.maximize_window()
 
-
     def test_01_login_valid(self):
         driver = self.driver
 
