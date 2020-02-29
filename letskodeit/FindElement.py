@@ -12,7 +12,7 @@ class FindIdName():
             print("We found an element by id")
         elementByName = driver.find_element_by_name("show-hide")
         if elementByName is not None:
-            print("We found an element by name")
+            print("We found_ an element by name")
         elementByXpath = driver.find_element_by_xpath("//input[@id='name']")
         if elementByXpath is not None:
             print("We found an element by xpath")
