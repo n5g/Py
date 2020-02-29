@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="657b41a4-daa4-4d41-bffd-abf8073e3dfe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/opensource_demo_orangehrmlive/POMProject/Pages/homePage.py" beforeDir="false" afterPath="$PROJECT_DIR$/opensource_demo_orangehrmlive/POMProject/Pages/homePage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/opensource_demo_orangehrmlive/POMProject/Locators/locators.py" beforeDir="false" afterPath="$PROJECT_DIR$/opensource_demo_orangehrmlive/POMProject/Locators/locators.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/opensource_demo_orangehrmlive/POMProject/Pages/loginPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/opensource_demo_orangehrmlive/POMProject/Pages/loginPage.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/opensource_demo_orangehrmlive/POMProject/Tests/login.py" beforeDir="false" afterPath="$PROJECT_DIR$/opensource_demo_orangehrmlive/POMProject/Tests/login.py" afterDir="false" />
     </list>
@@ -130,7 +131,8 @@
       <updated>1582689445970</updated>
       <workItem from="1582819101058" duration="1822000" />
       <workItem from="1582820945508" duration="2497000" />
-      <workItem from="1582905749654" duration="7017000" />
+      <workItem from="1582905749654" duration="7169000" />
+      <workItem from="1582958925685" duration="6101000" />
     </task>
     <task id="LOCAL-00001" summary="pom">
       <created>1582820811436</created>
@@ -146,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582920050052</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="pom">
+      <created>1582920470490</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1582920470490</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,7 +211,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Py$login.coverage" NAME="login Coverage Results" MODIFIED="1582821319127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/opensource-demo.orangehrmlive/POMProject/Tests" />
     <SUITE FILE_PATH="coverage/Py$pytest_in_google_search_pytest_py.coverage" NAME="pytest in google_search_pytest.py Coverage Results" MODIFIED="1582819259537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/Py$Unittests_in_login_py.coverage" NAME="Unittests in login.py Coverage Results" MODIFIED="1582920417352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Py$Unittests_in_login_py.coverage" NAME="Unittests in login.py Coverage Results" MODIFIED="1582965516057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/Py$login_tests.coverage" NAME="login tests Coverage Results" MODIFIED="1582912492719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
 </project>
