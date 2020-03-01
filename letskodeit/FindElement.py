@@ -32,6 +32,17 @@ class FindIdName():
         text = elementByTagName.text
         if elementByTagName is not None:
             print("We found an element by tag name and yhe text on element: "+ text)
+
+        #finding multiple_elements
+        elementsByClassName = driver.find_elements_by_class_name("inputs")
+        lenght1 = len(elementsByClassName)
+        if elementsByClassName is not None:
+            print("Size of the list is: " + str(lenght1))
+        elementsByTagName = driver.find_elements_by_tag_name("td")
+        lenght2 = len(elementsByTagName)
+        if elementsByTagName is not None:
+            print("TagNae -> Size of the list is: " + str(lenght2))
+
         time.sleep(2)
         driver.quit()
 
