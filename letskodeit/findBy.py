@@ -14,7 +14,7 @@ class FindBy():
             print("We found an element by xpath")
         elementByLinkText = driver.find_element(By.LINK_TEXT, "Login")
         if elementByLinkText is not None:
-             print("We found an element by link text")
+             print("We found_ an element by link text")
 
 ff = FindBy()
 ff.test()
