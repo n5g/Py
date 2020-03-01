@@ -15,7 +15,7 @@ class BrowserInteractions():
         driver.get(driver.current_url)
         print("Browser refreshed 2st time")
         driver.get("https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1")
-        currentUrl = driver.current_url
+        currentUrl = driver.current_url 
         print("Current url of the web page is: " + currentUrl)
         driver.back()
         driver.forward()
