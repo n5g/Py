@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="657b41a4-daa4-4d41-bffd-abf8073e3dfe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/letskodeit/HiddenElement103.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/letskodeit/RadioButtonAndCheckbox98.py" beforeDir="false" afterPath="$PROJECT_DIR$/letskodeit/RadioButtonAndCheckbox98.py" afterDir="false" />
     </list>
@@ -52,7 +53,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.RadioButtonAndCheckbox98">
+  <component name="RunManager" selected="Python.HiddenElement103">
     <configuration name="BrowserInteractions" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="trunk" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -119,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="FindElement" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="HiddenElement103" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="trunk" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,7 +133,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/letskodeit/FindElement.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/letskodeit/HiddenElement103.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -212,22 +213,22 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.FindElement" />
       <item itemvalue="Python.BrowserInteractions" />
-      <item itemvalue="Python tests.pytest in login_withoutPOM_pytest.py" />
-      <item itemvalue="Python tests.Unittests in login_unittest.py" />
-      <item itemvalue="Python tests.pytest in google_search_pytest.py" />
       <item itemvalue="Python.ClickAndSendKeys" />
       <item itemvalue="Python.ElementState97" />
       <item itemvalue="Python.RadioButtonAndCheckbox98" />
+      <item itemvalue="Python tests.pytest in login_withoutPOM_pytest.py" />
+      <item itemvalue="Python tests.Unittests in login_unittest.py" />
+      <item itemvalue="Python tests.pytest in google_search_pytest.py" />
+      <item itemvalue="Python.HiddenElement103" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.HiddenElement103" />
         <item itemvalue="Python.RadioButtonAndCheckbox98" />
         <item itemvalue="Python.ElementState97" />
         <item itemvalue="Python.ClickAndSendKeys" />
         <item itemvalue="Python.BrowserInteractions" />
-        <item itemvalue="Python.FindElement" />
       </list>
     </recent_temporary>
   </component>
@@ -246,6 +247,7 @@
       <workItem from="1582905749654" duration="7169000" />
       <workItem from="1582958925685" duration="19124000" />
       <workItem from="1583056013974" duration="10298000" />
+      <workItem from="1583171733882" duration="2314000" />
     </task>
     <task id="LOCAL-00001" summary="pom">
       <created>1582820811436</created>
@@ -341,6 +343,7 @@
     <SUITE FILE_PATH="coverage/Py$ClickAndSendKeys.coverage" NAME="ClickAndSendKeys Coverage Results" MODIFIED="1583070561233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit" />
     <SUITE FILE_PATH="coverage/Py$FindElement.coverage" NAME="FindElement Coverage Results" MODIFIED="1583000183819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit" />
     <SUITE FILE_PATH="coverage/Py$Unittests_in_login_py.coverage" NAME="Unittests in login_unittest.py Coverage Results" MODIFIED="1582968164338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Py$HiddenElement103.coverage" NAME="HiddenElement103 Coverage Results" MODIFIED="1583173878254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit" />
     <SUITE FILE_PATH="coverage/Py$ElementState97.coverage" NAME="ElementState97 Coverage Results" MODIFIED="1583073834739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit" />
     <SUITE FILE_PATH="coverage/Py$findBy.coverage" NAME="findBy Coverage Results" MODIFIED="1583000022680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit" />
     <SUITE FILE_PATH="coverage/Py$login_tests.coverage" NAME="login tests Coverage Results" MODIFIED="1582912492719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
@@ -348,6 +351,6 @@
     <SUITE FILE_PATH="coverage/Py$login.coverage" NAME="login Coverage Results" MODIFIED="1582821319127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/opensource-demo.orangehrmlive/POMProject/Tests" />
     <SUITE FILE_PATH="coverage/Py$pytest_in_login_new_py.coverage" NAME="pytest in login_new.py Coverage Results" MODIFIED="1582967848450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/Py$BrowserInteractions.coverage" NAME="BrowserInteractions Coverage Results" MODIFIED="1583001894205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit" />
-    <SUITE FILE_PATH="coverage/Py$RadioButtonAndCheckbox98.coverage" NAME="RadioButtonAndCheckbox98 Coverage Results" MODIFIED="1583084578358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit" />
+    <SUITE FILE_PATH="coverage/Py$RadioButtonAndCheckbox98.coverage" NAME="RadioButtonAndCheckbox98 Coverage Results" MODIFIED="1583172412211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit" />
   </component>
 </project>
