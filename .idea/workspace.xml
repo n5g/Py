@@ -217,10 +217,10 @@
       <item itemvalue="Python.ClickAndSendKeys" />
       <item itemvalue="Python.ElementState97" />
       <item itemvalue="Python.RadioButtonAndCheckbox98" />
+      <item itemvalue="Python.HiddenElement103" />
       <item itemvalue="Python tests.pytest in login_withoutPOM_pytest.py" />
       <item itemvalue="Python tests.Unittests in login_unittest.py" />
       <item itemvalue="Python tests.pytest in google_search_pytest.py" />
-      <item itemvalue="Python.HiddenElement103" />
     </list>
     <recent_temporary>
       <list>
