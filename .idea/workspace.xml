@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="657b41a4-daa4-4d41-bffd-abf8073e3dfe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/letskodeit/119CalendarSelection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letskodeit/122AutoComplete.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letskodeit/123Screenshots.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letskodeit/124Screenshot_generic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letskodeit/125javaScriptExecution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letskodeit/126windowSize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letskodeit/127scrollingElement.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/letskodeit/119CalendarSelection.py" beforeDir="false" afterPath="$PROJECT_DIR$/letskodeit/119CalendarSelection.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,8 +61,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.119CalendarSelection">
-    <configuration name="107GeText" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.123Screenshots">
+    <configuration name="123Screenshots" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="trunk" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,7 +75,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/letskodeit/107GeText.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/letskodeit/123Screenshots.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,7 +84,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="111dynamic-xpath-format" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="124Screenshot_generic" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="trunk" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,7 +97,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/letskodeit/111dynamic-xpath-format.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/letskodeit/124Screenshot_generic.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="119CalendarSelection" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="125javaScriptExecution" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="trunk" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -113,7 +119,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/letskodeit/119CalendarSelection.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/letskodeit/125javaScriptExecution.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,7 +128,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="UsingWrappers (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="126windowSize" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="trunk" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,12 +136,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/letskodeit/Wrapper" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/letskodeit" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\github\Py\letskodeit\Wrapper\usingWrappers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/letskodeit/126windowSize.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,7 +150,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="element_present_check" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="127scrollingElement" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="trunk" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -152,12 +158,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/letskodeit/Wrapper" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/letskodeit" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/letskodeit/Wrapper/element_present_check.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/letskodeit/127scrollingElement.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -215,22 +221,22 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.107GeText" />
-      <item itemvalue="Python.UsingWrappers (1)" />
       <item itemvalue="Python tests.pytest in login_withoutPOM_pytest.py" />
       <item itemvalue="Python tests.Unittests in login_unittest.py" />
       <item itemvalue="Python tests.pytest in google_search_pytest.py" />
-      <item itemvalue="Python.element_present_check" />
-      <item itemvalue="Python.111dynamic-xpath-format" />
-      <item itemvalue="Python.119CalendarSelection" />
+      <item itemvalue="Python.123Screenshots" />
+      <item itemvalue="Python.124Screenshot_generic" />
+      <item itemvalue="Python.125javaScriptExecution" />
+      <item itemvalue="Python.126windowSize" />
+      <item itemvalue="Python.127scrollingElement" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.119CalendarSelection" />
-        <item itemvalue="Python.111dynamic-xpath-format" />
-        <item itemvalue="Python.element_present_check" />
-        <item itemvalue="Python.UsingWrappers (1)" />
-        <item itemvalue="Python.107GeText" />
+        <item itemvalue="Python.123Screenshots" />
+        <item itemvalue="Python.124Screenshot_generic" />
+        <item itemvalue="Python.127scrollingElement" />
+        <item itemvalue="Python.126windowSize" />
+        <item itemvalue="Python.125javaScriptExecution" />
       </list>
     </recent_temporary>
   </component>
@@ -254,7 +260,8 @@
       <workItem from="1583334601986" duration="5476000" />
       <workItem from="1583340888274" duration="1059000" />
       <workItem from="1583341960376" duration="1232000" />
-      <workItem from="1583579852682" duration="8189000" />
+      <workItem from="1583579852682" duration="8245000" />
+      <workItem from="1583670372510" duration="11431000" />
     </task>
     <task id="LOCAL-00001" summary="pom">
       <created>1582820811436</created>
@@ -291,7 +298,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583084638394</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="pom">
+      <created>1583609513571</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1583609513571</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -345,26 +359,31 @@
     <state x="417" y="177" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1582689559929" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Py$111dynamic_xpath_format.coverage" NAME="111dynamic-xpath-format Coverage Results" MODIFIED="1583585377503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit" />
-    <SUITE FILE_PATH="coverage/Py$UsingWrappers__1_.coverage" NAME="UsingWrappers (1) Coverage Results" MODIFIED="1583582028528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit/Wrapper" />
     <SUITE FILE_PATH="coverage/Py$element_present_check.coverage" NAME="element_present_check Coverage Results" MODIFIED="1583584719474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit/Wrapper" />
-    <SUITE FILE_PATH="coverage/Py$FindByIdName.coverage" NAME="FindByIdName Coverage Results" MODIFIED="1582997979286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit" />
-    <SUITE FILE_PATH="coverage/Py$pytest_in_google_search_pytest_py.coverage" NAME="pytest in google_search_pytest.py Coverage Results" MODIFIED="1582819259537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/Py$ClickAndSendKeys.coverage" NAME="ClickAndSendKeys Coverage Results" MODIFIED="1583070561233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit" />
-    <SUITE FILE_PATH="coverage/Py$FindElement.coverage" NAME="FindElement Coverage Results" MODIFIED="1583000183819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit" />
     <SUITE FILE_PATH="coverage/Py$Unittests_in_login_py.coverage" NAME="Unittests in login_unittest.py Coverage Results" MODIFIED="1582968164338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/Py$107GeText.coverage" NAME="107GeText Coverage Results" MODIFIED="1583580349150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit" />
-    <SUITE FILE_PATH="coverage/Py$HiddenElement103.coverage" NAME="HiddenElement103 Coverage Results" MODIFIED="1583173878254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit" />
+    <SUITE FILE_PATH="coverage/Py$124Screenshot_generic.coverage" NAME="124Screenshot_generic Coverage Results" MODIFIED="1583695458581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit" />
     <SUITE FILE_PATH="coverage/Py$ElementState97.coverage" NAME="ElementState97 Coverage Results" MODIFIED="1583073834739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit" />
-    <SUITE FILE_PATH="coverage/Py$findBy.coverage" NAME="findBy Coverage Results" MODIFIED="1583000022680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit" />
     <SUITE FILE_PATH="coverage/Py$login_tests.coverage" NAME="login tests Coverage Results" MODIFIED="1582912492719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/Py$pytest_in_login_withoutPOM_pytest_py.coverage" NAME="pytest in login_withoutPOM_pytest.py Coverage Results" MODIFIED="1582969220696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/Py$login.coverage" NAME="login Coverage Results" MODIFIED="1582821319127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/opensource-demo.orangehrmlive/POMProject/Tests" />
+    <SUITE FILE_PATH="coverage/Py$123Screenshots.coverage" NAME="123Screenshots Coverage Results" MODIFIED="1583695514258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit" />
+    <SUITE FILE_PATH="coverage/Py$125javaScriptExecution.coverage" NAME="125javaScriptExecution Coverage Results" MODIFIED="1583686048129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit" />
     <SUITE FILE_PATH="coverage/Py$pytest_in_login_new_py.coverage" NAME="pytest in login_new.py Coverage Results" MODIFIED="1582967848450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/Py$BrowserInteractions.coverage" NAME="BrowserInteractions Coverage Results" MODIFIED="1583001894205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit" />
+    <SUITE FILE_PATH="coverage/Py$127scrollingElement.coverage" NAME="127scrollingElement Coverage Results" MODIFIED="1583691151272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit" />
+    <SUITE FILE_PATH="coverage/Py$126windowSize.coverage" NAME="126windowSize Coverage Results" MODIFIED="1583686435677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit" />
+    <SUITE FILE_PATH="coverage/Py$RadioButtonAndCheckbox98.coverage" NAME="RadioButtonAndCheckbox98 Coverage Results" MODIFIED="1583172412211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit" />
+    <SUITE FILE_PATH="coverage/Py$119CalendarSelection.coverage" NAME="119CalendarSelection Coverage Results" MODIFIED="1583672208980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit" />
+    <SUITE FILE_PATH="coverage/Py$111dynamic_xpath_format.coverage" NAME="111dynamic-xpath-format Coverage Results" MODIFIED="1583585377503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit" />
+    <SUITE FILE_PATH="coverage/Py$UsingWrappers__1_.coverage" NAME="UsingWrappers (1) Coverage Results" MODIFIED="1583582028528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit/Wrapper" />
+    <SUITE FILE_PATH="coverage/Py$FindByIdName.coverage" NAME="FindByIdName Coverage Results" MODIFIED="1582997979286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit" />
+    <SUITE FILE_PATH="coverage/Py$pytest_in_google_search_pytest_py.coverage" NAME="pytest in google_search_pytest.py Coverage Results" MODIFIED="1582819259537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Py$FindElement.coverage" NAME="FindElement Coverage Results" MODIFIED="1583000183819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit" />
+    <SUITE FILE_PATH="coverage/Py$107GeText.coverage" NAME="107GeText Coverage Results" MODIFIED="1583580349150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit" />
+    <SUITE FILE_PATH="coverage/Py$HiddenElement103.coverage" NAME="HiddenElement103 Coverage Results" MODIFIED="1583173878254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit" />
+    <SUITE FILE_PATH="coverage/Py$findBy.coverage" NAME="findBy Coverage Results" MODIFIED="1583000022680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit" />
+    <SUITE FILE_PATH="coverage/Py$login.coverage" NAME="login Coverage Results" MODIFIED="1582821319127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/opensource-demo.orangehrmlive/POMProject/Tests" />
     <SUITE FILE_PATH="coverage/Py$105airbnbSearch.coverage" NAME="105airbnbSearch Coverage Results" MODIFIED="1583337257293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit" />
     <SUITE FILE_PATH="coverage/Py$UsingWrappers.coverage" NAME="UsingWrappers Coverage Results" MODIFIED="1583339876896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit/108Wrapper" />
-    <SUITE FILE_PATH="coverage/Py$RadioButtonAndCheckbox98.coverage" NAME="RadioButtonAndCheckbox98 Coverage Results" MODIFIED="1583172412211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit" />
-    <SUITE FILE_PATH="coverage/Py$119CalendarSelection.coverage" NAME="119CalendarSelection Coverage Results" MODIFIED="1583603505208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit" />
   </component>
 </project>
