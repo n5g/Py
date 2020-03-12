@@ -21,7 +21,7 @@ class DragAndDrop():
             print("Drag and drop element successful")
             time.sleep(2)
         except:
-            print("drag and drop failed on element")
+            print("drag and drop failed on  element")
         driver.quit()
 run = DragAndDrop()
 run.test()
