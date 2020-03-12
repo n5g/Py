@@ -17,7 +17,7 @@ class SwitchToFrame():
         #search course
         searchBox = driver.find_element_by_id("search-courses")
         searchBox.send_keys("python")
-        time.sleep(3)
+        time.sleep(2)
 
         #switch back to the parent frame
         driver.switch_to.default_content()
