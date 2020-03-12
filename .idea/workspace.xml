@@ -2,15 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="657b41a4-daa4-4d41-bffd-abf8073e3dfe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/letskodeit/129_130_switchWindow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/letskodeit/131Switch_to_frame.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/letskodeit/133_Switch_to_alert.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/letskodeit/134_mouse_hover.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/letskodeit/135_Drag_and_drop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/letskodeit/136_Slider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letskodeit/137_logging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letskodeit/138logging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letskodeit/139Logger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letskodeit/unittestpackage/145AssertUnittest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letskodeit/unittestpackage/147test_suit_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letskodeit/unittestpackage/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letskodeit/unittestpackage/test_case_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letskodeit/unittestpackage/test_case_demo_two.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/letskodeit/ElementState97.py" beforeDir="false" afterPath="$PROJECT_DIR$/letskodeit/97elementState.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/letskodeit/HiddenElement103.py" beforeDir="false" afterPath="$PROJECT_DIR$/letskodeit/103HiddenElement.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +41,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/opensource_demo_orangehrmlive/POMProject/Tests/login_withoutPOM_pytest.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/letskodeit/unittestpackage/AssertDemo.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -65,21 +65,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.136_Slider">
-    <configuration name="131Switch_to_frame" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.147test_suit_demo">
+    <configuration name="145AssertUnittest" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="trunk" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/letskodeit" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_HOME" value="C:\github\Py\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/letskodeit/unittestpackage" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/letskodeit/131Switch_to_frame.py" />
+      <option name="SCRIPT_NAME" value="C:\github\Py\letskodeit\unittestpackage\145AssertUnittest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="133_Switch_to_alert" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="147test_suit_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="trunk" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,12 +96,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/letskodeit" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/letskodeit/unittestpackage" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/letskodeit/133_Switch_to_alert.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/letskodeit/unittestpackage/147test_suit_demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,70 +110,49 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="134_mouse_hover" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Unittests for AssertDemo.AssertDemo" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="trunk" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/letskodeit" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/letskodeit/unittestpackage" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/letskodeit/134_mouse_hover.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;AssertDemo.AssertDemo&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="135_Drag_and_drop" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Unittests for AssertDemo.AssertDemo.test_assertEquals" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="trunk" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/letskodeit" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/letskodeit/unittestpackage" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/letskodeit/135_Drag_and_drop.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;AssertDemo.AssertDemo.test_assertEquals&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="136_Slider" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Unittests in 145AssertUnittest.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="trunk" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/letskodeit" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/letskodeit/unittestpackage" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/letskodeit/136_Slider.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/letskodeit/unittestpackage/145AssertUnittest.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <configuration name="Unittests in login_unittest.py" type="tests" factoryName="Unittests" nameIsGenerated="true">
@@ -189,6 +168,21 @@
       <option name="_new_pattern" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;$PROJECT_DIR$/opensource_demo_orangehrmlive/POMProject/Tests/login_unittest.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_case_demo.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="trunk" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/letskodeit/unittestpackage" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/letskodeit/unittestpackage/test_case_demo.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
@@ -225,22 +219,23 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.145AssertUnittest" />
       <item itemvalue="Python tests.pytest in login_withoutPOM_pytest.py" />
       <item itemvalue="Python tests.Unittests in login_unittest.py" />
       <item itemvalue="Python tests.pytest in google_search_pytest.py" />
-      <item itemvalue="Python.131Switch_to_frame" />
-      <item itemvalue="Python.133_Switch_to_alert" />
-      <item itemvalue="Python.134_mouse_hover" />
-      <item itemvalue="Python.135_Drag_and_drop" />
-      <item itemvalue="Python.136_Slider" />
+      <item itemvalue="Python tests.Unittests in test_case_demo.py" />
+      <item itemvalue="Python tests.Unittests in 145AssertUnittest.py" />
+      <item itemvalue="Python tests.Unittests for AssertDemo.AssertDemo.test_assertEquals" />
+      <item itemvalue="Python tests.Unittests for AssertDemo.AssertDemo" />
+      <item itemvalue="Python.147test_suit_demo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.136_Slider" />
-        <item itemvalue="Python.135_Drag_and_drop" />
-        <item itemvalue="Python.134_mouse_hover" />
-        <item itemvalue="Python.133_Switch_to_alert" />
-        <item itemvalue="Python.131Switch_to_frame" />
+        <item itemvalue="Python.147test_suit_demo" />
+        <item itemvalue="Python tests.Unittests in test_case_demo.py" />
+        <item itemvalue="Python tests.Unittests for AssertDemo.AssertDemo" />
+        <item itemvalue="Python tests.Unittests for AssertDemo.AssertDemo.test_assertEquals" />
+        <item itemvalue="Python tests.Unittests in 145AssertUnittest.py" />
       </list>
     </recent_temporary>
   </component>
@@ -267,7 +262,9 @@
       <workItem from="1583579852682" duration="8245000" />
       <workItem from="1583670372510" duration="13966000" />
       <workItem from="1583740892424" duration="1328000" />
-      <workItem from="1583750261540" duration="7789000" />
+      <workItem from="1583750261540" duration="10801000" />
+      <workItem from="1583944714799" duration="3544000" />
+      <workItem from="1584026507829" duration="1444000" />
     </task>
     <task id="LOCAL-00001" summary="pom">
       <created>1582820811436</created>
@@ -367,35 +364,46 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Py$136_Slider.coverage" NAME="136_Slider Coverage Results" MODIFIED="1583772910790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit" />
     <SUITE FILE_PATH="coverage/Py$element_present_check.coverage" NAME="element_present_check Coverage Results" MODIFIED="1583584719474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit/Wrapper" />
+    <SUITE FILE_PATH="coverage/Py$139Logger.coverage" NAME="139Logger Coverage Results" MODIFIED="1583777682460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit" />
     <SUITE FILE_PATH="coverage/Py$ClickAndSendKeys.coverage" NAME="ClickAndSendKeys Coverage Results" MODIFIED="1583070561233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit" />
     <SUITE FILE_PATH="coverage/Py$Unittests_in_login_py.coverage" NAME="Unittests in login_unittest.py Coverage Results" MODIFIED="1582968164338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/Py$124Screenshot_generic.coverage" NAME="124Screenshot_generic Coverage Results" MODIFIED="1583695458581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit" />
+    <SUITE FILE_PATH="coverage/Py$Unittests_in_test_case_demo_py.coverage" NAME="Unittests in test_case_demo.py Coverage Results" MODIFIED="1583946181150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit/unittestpackage" />
     <SUITE FILE_PATH="coverage/Py$ElementState97.coverage" NAME="ElementState97 Coverage Results" MODIFIED="1583073834739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit" />
     <SUITE FILE_PATH="coverage/Py$login_tests.coverage" NAME="login tests Coverage Results" MODIFIED="1582912492719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/Py$pytest_in_login_withoutPOM_pytest_py.coverage" NAME="pytest in login_withoutPOM_pytest.py Coverage Results" MODIFIED="1582969220696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/Py$123Screenshots.coverage" NAME="123Screenshots Coverage Results" MODIFIED="1583695514258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit" />
     <SUITE FILE_PATH="coverage/Py$125javaScriptExecution.coverage" NAME="125javaScriptExecution Coverage Results" MODIFIED="1583686048129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit" />
     <SUITE FILE_PATH="coverage/Py$pytest_in_login_new_py.coverage" NAME="pytest in login_new.py Coverage Results" MODIFIED="1582967848450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Py$AssertDemo.coverage" NAME="AssertDemo Coverage Results" MODIFIED="1583947588957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit/unittestpackage" />
     <SUITE FILE_PATH="coverage/Py$135_Drag_and_drop.coverage" NAME="135_Drag_and_drop Coverage Results" MODIFIED="1583772438683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit" />
     <SUITE FILE_PATH="coverage/Py$BrowserInteractions.coverage" NAME="BrowserInteractions Coverage Results" MODIFIED="1583001894205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit" />
     <SUITE FILE_PATH="coverage/Py$127scrollingElement.coverage" NAME="127scrollingElement Coverage Results" MODIFIED="1583691151272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit" />
+    <SUITE FILE_PATH="coverage/Py$137_logging.coverage" NAME="137_logging Coverage Results" MODIFIED="1583776473988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit" />
     <SUITE FILE_PATH="coverage/Py$129switchWindow.coverage" NAME="129switchWindow Coverage Results" MODIFIED="1583698663639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit" />
     <SUITE FILE_PATH="coverage/Py$126windowSize.coverage" NAME="126windowSize Coverage Results" MODIFIED="1583686435677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit" />
     <SUITE FILE_PATH="coverage/Py$RadioButtonAndCheckbox98.coverage" NAME="RadioButtonAndCheckbox98 Coverage Results" MODIFIED="1583172412211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit" />
     <SUITE FILE_PATH="coverage/Py$119CalendarSelection.coverage" NAME="119CalendarSelection Coverage Results" MODIFIED="1583672208980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit" />
     <SUITE FILE_PATH="coverage/Py$111dynamic_xpath_format.coverage" NAME="111dynamic-xpath-format Coverage Results" MODIFIED="1583585377503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit" />
+    <SUITE FILE_PATH="coverage/Py$Unittests_for_AssertDemo_AssertDemo.coverage" NAME="Unittests for AssertDemo.AssertDemo Coverage Results" MODIFIED="1583947061523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit/unittestpackage" />
     <SUITE FILE_PATH="coverage/Py$UsingWrappers__1_.coverage" NAME="UsingWrappers (1) Coverage Results" MODIFIED="1583582028528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit/Wrapper" />
     <SUITE FILE_PATH="coverage/Py$FindByIdName.coverage" NAME="FindByIdName Coverage Results" MODIFIED="1582997979286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit" />
     <SUITE FILE_PATH="coverage/Py$134_mouse_hover.coverage" NAME="134_mouse_hover Coverage Results" MODIFIED="1583769235069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit" />
     <SUITE FILE_PATH="coverage/Py$pytest_in_google_search_pytest_py.coverage" NAME="pytest in google_search_pytest.py Coverage Results" MODIFIED="1582819259537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/Py$FindElement.coverage" NAME="FindElement Coverage Results" MODIFIED="1583000183819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit" />
+    <SUITE FILE_PATH="coverage/Py$138logging.coverage" NAME="138logging Coverage Results" MODIFIED="1583776615969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit" />
     <SUITE FILE_PATH="coverage/Py$107GeText.coverage" NAME="107GeText Coverage Results" MODIFIED="1583580349150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit" />
     <SUITE FILE_PATH="coverage/Py$HiddenElement103.coverage" NAME="HiddenElement103 Coverage Results" MODIFIED="1583173878254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit" />
+    <SUITE FILE_PATH="coverage/Py$147test_suit_demo.coverage" NAME="147test_suit_demo Coverage Results" MODIFIED="1584027928453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit/unittestpackage" />
     <SUITE FILE_PATH="coverage/Py$133_Switch_to_alert.coverage" NAME="133_Switch_to_alert Coverage Results" MODIFIED="1583758420620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit" />
     <SUITE FILE_PATH="coverage/Py$findBy.coverage" NAME="findBy Coverage Results" MODIFIED="1583000022680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit" />
+    <SUITE FILE_PATH="coverage/Py$Unittests_in_145AssertUnittest_py.coverage" NAME="Unittests in AssertDemo.py Coverage Results" MODIFIED="1583946941304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit/unittestpackage" />
     <SUITE FILE_PATH="coverage/Py$login.coverage" NAME="login Coverage Results" MODIFIED="1582821319127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/opensource-demo.orangehrmlive/POMProject/Tests" />
+    <SUITE FILE_PATH="coverage/Py$Unittests_in_144test_case_demo_py.coverage" NAME="Unittests in 144test_case_demo.py Coverage Results" MODIFIED="1584026602239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit/unittestpackage" />
+    <SUITE FILE_PATH="coverage/Py$Unittests_for_AssertDemo_AssertDemo_test_assertEquals.coverage" NAME="Unittests for AssertDemo.AssertDemo.test_assertEquals Coverage Results" MODIFIED="1583947017431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit/unittestpackage" />
     <SUITE FILE_PATH="coverage/Py$131Switch_to_frame.coverage" NAME="131Switch_to_frame Coverage Results" MODIFIED="1583756978954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit" />
     <SUITE FILE_PATH="coverage/Py$105airbnbSearch.coverage" NAME="105airbnbSearch Coverage Results" MODIFIED="1583337257293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit" />
     <SUITE FILE_PATH="coverage/Py$UsingWrappers.coverage" NAME="UsingWrappers Coverage Results" MODIFIED="1583339876896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit/108Wrapper" />
+    <SUITE FILE_PATH="coverage/Py$145AssertUnittest.coverage" NAME="145AssertUnittest Coverage Results" MODIFIED="1584026591533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/letskodeit/unittestpackage" />
   </component>
 </project>
