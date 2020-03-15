@@ -5,7 +5,7 @@ class Screenshots():
     def test(self):
         driver = webdriver.Chrome()
         driver.maximize_window()
-        driver.implicitly_wait(5)
+        driver.implicitly_wait(2)
         driver.get("https://opensource-demo.orangehrmlive.com/")
         usernameField = driver.find_element_by_id("txtUsername")
         usernameField.click()
