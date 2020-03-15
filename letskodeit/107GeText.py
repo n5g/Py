@@ -14,7 +14,7 @@ element = driver.find_element_by_id("name")
 result = element.get_attribute("class")
 result2 = element.get_attribute("type")
 print("value of attribue  is: " + result)
-print("value2 of attribue is: " + result2)
+print("value2 of attribue  is: " + result2)
 
 
 
