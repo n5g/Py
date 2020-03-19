@@ -22,7 +22,7 @@ class HiddenElements():
         driver.find_element_by_id("hide-textbox").click()
         # Find the state of the text box
         textBoxState = textBoxElement.is_displayed()
-        print("Text is visible? " + str(textBoxState))
+        print("Text is visible ? " + str(textBoxState))
         time.sleep(2)
         # Click the Show button
         driver.find_element_by_id("show-textbox").click()
