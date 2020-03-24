@@ -23,3 +23,5 @@ class SearchHelper(BasePage):
         all_list = self.find_elements(YandexSeacrhLocators.LOCATOR_YANDEX_NAVIGATION_BAR,time=2)
         nav_bar_menu = [x.text for x in all_list if len(x.text) > 0]
         return nav_bar_menu
+    
+    
