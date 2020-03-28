@@ -28,4 +28,7 @@ def test_02_search(driver):
     for title in titles:
         assert "python" in title.text.lower()
 
+        
+        
+        
 
