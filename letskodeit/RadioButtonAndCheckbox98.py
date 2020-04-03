@@ -21,7 +21,7 @@ print("benzcheckbox  radio button is selected? "+ str(bmwCheckBox.is_selected())
 #99 lesson elements list
 radioButtonsList = driver.find_elements_by_xpath("//input[@type='radio']")
 size = len(radioButtonsList)
-print("Size of the list: " + str(size))
+print("Size of the list:  " + str(size))
 for radioButton in radioButtonsList:
     isSelected = radioButton.is_selected()
     if not isSelected:
